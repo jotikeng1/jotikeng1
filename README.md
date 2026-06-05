@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Lizeth Moreno 👋</h1>
 
-<!--
-**jotikeng1/jotikeng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Economist | Data Analyst | Power BI | Python | Data Science | Business Intelligence
+</p>
 
-Here are some ideas to get you started:
+## Sobre mí
+- 💼 Trabajo en DGIECE - MINCETUR
+- 📊 Apasionada por el análisis económico y el análisis de datos
+- 📈 Desarrollo de tableros de Business Intelligence en Power BI
+- 🐍 Aprendiendo Python y Git
+- 📍 Lima, Perú
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
